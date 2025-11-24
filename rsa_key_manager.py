@@ -1,5 +1,6 @@
-from Crypto.PublicKey import RSA
+﻿from Crypto.PublicKey import RSA
 
+# quản lý khóa RSA: tạo, xuất, lưu và tải khóa
 class RSAKeyManager:
 
     def generate_keypair(bits=2048):

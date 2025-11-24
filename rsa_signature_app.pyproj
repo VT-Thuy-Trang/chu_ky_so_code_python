@@ -24,7 +24,6 @@
     <Compile Include="RSA_GUI.py" />
     <Compile Include="main.py" />
     <Compile Include="rsa_key_manager.py" />
-    <Compile Include="rsa_chukyso.py" />
     <Compile Include="signer.py" />
     <Compile Include="SimpleRSA.py" />
     <Compile Include="verifier.py" />
